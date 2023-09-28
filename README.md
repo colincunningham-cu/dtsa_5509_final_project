@@ -9,4 +9,4 @@ The goal of this project is to provide insights into the impact of each feature 
 The data used for this project was downloaded from Kaggle (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) and contains 1,460 observations with 80 features (not including ID) that describe almost every aspect of residential homes in Ames, Iowa. In total, there are 28 quantitative variables and 52 categorical variables.
 
 ## Results & Conclusions
-See the Jupyter notebook for full analysis and conclusions.
+See the Jupyter notebook contained within this repository for full analysis and conclusions.
